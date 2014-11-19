@@ -1,4 +1,3 @@
-<article class="markdown-body">[Home][1] | [Blog][2] 
 Two-way data-binding is such an important feature - align your JS models with
 your HTML view at all times, to reduce boilerplate coding and enhance UX. We 
 will observe two ways of doing this using native JavaScript, with no frameworks
@@ -287,7 +286,7 @@ such:
     
 
 Thanks for reading. Comments at [discussion on reddit][12] or at sella.rafaeli@
-gmail.com.</article>
+gmail.com.
 
  [1]: http://www.sellarafaeli.com/
  [2]: http://www.sellarafaeli.com/blog
